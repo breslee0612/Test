@@ -1,6 +1,6 @@
 HƯỚNG DẪN SỬ DỤNG PHẦN MỀM PHÂN LOẠI HẠT CÀ PHÊ
 ================================================
-
+**LƯU Ý: VÌ ẢNH ĐƯỢC TRAIN KHÁ ÍT ( CHỈ 18 ẢNH NÊN SẼ BỊ OVERFITTING NHƯNG ) NÊN NẾU TEST THÌ CÓ THỂ DÙNG ẢNH TRONG THƯ MỤC dataset\train\images ĐỂ XEM THỬ DEMO
 1. CẤU TRÚC THƯ MỤC
 -------------------
 dataset/                  # Thư mục chứa dữ liệu training
