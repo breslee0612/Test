@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['cam', 'do', 'xanh']
+
+roboflow:
+  workspace: coffee-ob3d2
+  project: coffee-rvxdh
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/coffee-ob3d2/coffee-rvxdh/dataset/4
